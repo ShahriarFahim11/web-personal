@@ -11,6 +11,11 @@ h3{
     font-size: 20px;
     color: slategray;
 }
+h4{
+    font-size: 25px;
+    color: black;
+    text-align: center;
+}
 p{
     color: gray;
 }
@@ -59,15 +64,49 @@ section{
 
 }
 .lasted-highlight{
-    color: orange;
-}
-.lasted-position{
     text-align: center;
+    color: orange;
 }
 .single{
     box-shadow: 5px 5px 30px gray;
     border-radius: 10px;
     height: 70%;
     width: 20%;
+}
+.working-project{
+    padding-top: 20px;
+    background-color: #f6f6f6;
+    padding-left: 120px;
 
+}
+.lasted-position h2{
+       margin-left: 20%;
+}
+.work-in img{
+    width: 700px;
+    margin: 50px 280px;
+}
+.work{
+    color: white;
+    padding-left: 315px;
+    margin-top: -13%;
+}
+.lets-chat{
+    text-decoration: none;
+    background-color: rgb(255, 0, 149);
+    padding: 10px 30px;
+    border-radius: 14px;
+    color: white;
+    font-weight: 700;
+    margin-left: 835px;
+}
+.footer{
+    text-align: center;
+    height: 50px;
+    padding: 20px 40px;
+    margin: 40px 50px;
+
+}
+.footer img{
+    width: 50px;
 }
